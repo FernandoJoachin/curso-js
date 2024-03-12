@@ -1,0 +1,25 @@
+{
+  "clientes": [
+    {
+      "id": "7697",
+      "nombre": "Fernando",
+      "email": "correo@correo.com",
+      "telefono": "1234567890",
+      "empresa": "Loopcrack"
+    },
+    {
+      "nombre": "Miguel",
+      "email": "admin@admin.com",
+      "telefono": "1234567890",
+      "empresa": "Kinub2",
+      "id": "cc39"
+    },
+    {
+      "id": "a0b5",
+      "nombre": "Salvador",
+      "email": "salvador@correo.com",
+      "telefono": "1234567890",
+      "empresa": "FMAT"
+    }
+  ]
+}

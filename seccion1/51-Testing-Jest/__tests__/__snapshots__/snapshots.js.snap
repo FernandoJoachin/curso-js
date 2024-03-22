@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing del Cliente Validar si es el mismo cliente 1`] = `
+{
+  "balance": 6000,
+  "nombre": "Fernando",
+  "tipo": "VIP",
+}
+`;

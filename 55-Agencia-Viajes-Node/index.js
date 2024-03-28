@@ -15,6 +15,9 @@ const port = process.env.PORT || 4000;
 //Habilitar PUG
 app.set('view engine', 'pug');
 
+//Agregar body parser para leer los datos del formulario
+app.use(express.urlencoded({extended: true}))
+
 //Definiar la carpeta publica
 app.use(express.static('public'));
 
